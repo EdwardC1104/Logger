@@ -9,5 +9,5 @@ logger.shouldLogRejections();
 // Start the server:
 const PORT = process.env.PORT || 80;
 app.listen(PORT, () => {
-    logger.log('info', `🚀 Server up and running on port ${PORT}`, { port: PORT });
+    logger.log('debug', `🚀 Server up and running on port ${PORT}`, { port: PORT });
 });
