@@ -7,7 +7,7 @@ import Timer from './Timer';
 class logger {
     private static winstonLogger: Logger = createWinstonLogger({
         level: 'info',
-        defaultMeta: { service: 'auth' },
+        defaultMeta: { service: '' },
         transports: [
             new transports.File({
                 filename: 'logs/error.log',
