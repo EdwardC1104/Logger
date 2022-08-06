@@ -1,4 +1,4 @@
-import { logger } from 'logger';
+import { logger } from '../logger';
 import { Request, Response, Router } from 'express';
 
 const router = Router();
@@ -25,8 +25,6 @@ router.use((req, res, next) => {
         const username = req.user?.username;
         const userId = req.user?.id;
 
-        const responseTime = `${timer.stop()}ms`;
-
         // Perform the logging using the logger class
         logger.log(level, statusMessage, {
             method,
@@ -34,7 +32,7 @@ router.use((req, res, next) => {
             statusCode,
             statusMessage,
             ip,
-            responseTime,
+            responseTime: expect.any(String),
             username,
             userId,
             level,

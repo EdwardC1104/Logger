@@ -135,3 +135,269 @@
 {"level":"info","message":"🚀 Server up and running on port 80","port":80,"service":"auth","timestamp":"2022-08-05T19:59:18.269Z"}
 {"level":"info","message":"🚀 Server up and running on port 80","port":80,"service":"auth","timestamp":"2022-08-05T20:00:35.545Z"}
 {"level":"info","message":"🚀 Server up and running on port 80","port":80,"service":"auth","timestamp":"2022-08-05T20:01:30.330Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T10:47:06.126Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T10:59:47.303Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T10:59:47.304Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:00:08.612Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:00:08.613Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:01:53.373Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:01:53.379Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:02:36.339Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:02:36.343Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:03:51.969Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:03:58.620Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:03:58.621Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:08:18.867Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:08:18.868Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:08:18.874Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:08:20.806Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:08:20.807Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:08:20.816Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:08:22.720Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:08:22.724Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:08:22.730Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:08:24.630Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:08:24.634Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:08:24.640Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:08:59.363Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:08:59.363Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:09:28.208Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:09:28.212Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:09:35.397Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:09:35.402Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:09:39.790Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:09:39.791Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:09:50.252Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:09:50.257Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:09:50.266Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:09:52.217Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:09:52.218Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:09:52.228Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:09:54.141Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:09:54.145Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:09:54.151Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:09:56.100Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:09:56.101Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:09:56.110Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:10:11.330Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:10:11.332Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:10:11.341Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:10:37.071Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:10:37.073Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:10:37.081Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:11:00.263Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:11:00.265Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:11:00.273Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:12:09.507Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:12:09.509Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:12:09.517Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:12:09.519Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:12:50.268Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:12:50.269Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:12:50.278Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:12:50.280Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:15:10.626Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:15:10.628Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:15:15.635Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:15:15.637Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:16:05.924Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:16:05.927Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:16:05.939Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:16:05.942Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:17:20.681Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:17:20.682Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:17:20.691Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:17:20.693Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:18:38.042Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:18:38.044Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:18:38.052Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:18:38.054Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:51:10.156Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:51:10.159Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:51:10.167Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:51:10.170Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:54:36.939Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:54:36.941Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:54:36.949Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:54:36.951Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:55:01.635Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:55:01.638Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:55:01.646Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:55:01.648Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:55:49.047Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:55:49.049Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:55:49.058Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:55:49.060Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:59:25.497Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:59:25.499Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:59:25.512Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:59:25.514Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T11:59:56.391Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T11:59:56.392Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:59:56.402Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T11:59:56.405Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:01:22.190Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:01:22.191Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:01:22.205Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:01:22.207Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:05:31.070Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:05:31.071Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:05:31.083Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:05:31.086Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:06:28.632Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:06:28.634Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:06:28.646Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:06:28.649Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:08:23.801Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:08:23.803Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:08:23.815Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:08:23.817Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:10:54.917Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:10:54.918Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:10:54.932Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:10:54.934Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":"2ms","service":"auth","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T12:11:22.164Z","url":"/favicon.ico"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:13:50.375Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:13:50.376Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:13:50.390Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:13:50.392Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:15:13.011Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:15:13.013Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:15:13.026Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:15:13.029Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:16:52.508Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:16:52.510Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:16:52.518Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:16:52.520Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:17:22.197Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:17:22.199Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:17:22.208Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:17:22.211Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:17:55.495Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:17:55.497Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:17:55.506Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:17:55.508Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:18:28.242Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:18:28.244Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:18:28.253Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:18:28.255Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:19:26.558Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:19:26.560Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:19:26.569Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:19:26.571Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:30:08.702Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:30:08.704Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:30:08.712Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:30:08.715Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:30:45.739Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:30:45.740Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:30:45.749Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:30:45.751Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:38:56.185Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:38:56.186Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:38:56.198Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:38:56.200Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:40:44.991Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:40:44.993Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:40:45.000Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:40:45.002Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:42:27.191Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:42:27.193Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:42:27.203Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:42:27.205Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:43:15.146Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:43:15.148Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:43:15.156Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:43:15.159Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T12:43:26.076Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T12:43:26.077Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:43:26.083Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T12:43:26.086Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:25:23.591Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:25:23.593Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:25:23.601Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:25:23.603Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:25:40.284Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:25:40.285Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:25:40.293Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:25:40.295Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:26:55.912Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:26:55.913Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:26:55.921Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:26:55.924Z"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:27:21.819Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:27:21.820Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:27:21.830Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:27:21.833Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:30:11.149Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:30:11.364Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:30:11.151Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:30:11.369Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:30:11.376Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:30:11.379Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:30:41.226Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:30:41.442Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:30:41.228Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:30:41.443Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:30:41.451Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:30:41.454Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:32:41.707Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:32:41.942Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:32:41.708Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:32:41.944Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:32:41.953Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:32:41.955Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:33:10.159Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:33:10.385Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:33:10.161Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:33:10.386Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:33:10.399Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:33:10.401Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:34:21.400Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:34:21.610Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:34:21.402Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:34:21.611Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:34:21.625Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:34:21.627Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:34:35.545Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:34:35.757Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:34:35.548Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:34:35.758Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:34:35.771Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:34:35.775Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:35:08.487Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:35:08.735Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:35:08.489Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:35:08.737Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:35:08.745Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:35:08.749Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:35:49.157Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:35:49.388Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:35:49.159Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:35:49.390Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:35:49.399Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:35:49.401Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:36:37.036Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:36:37.254Z"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:36:37.038Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:36:37.255Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:36:37.269Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:36:37.271Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:38:22.429Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:38:22.430Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:39:45.710Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:39:45.712Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:39:46.226Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:39:46.228Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:39:46.237Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:39:46.240Z"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:43:14.107Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:43:14.108Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:46:12.615Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:46:12.616Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"warn","message":"Not Found","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"404","statusMessage":"Not Found","timestamp":"2022-08-06T16:55:12.602Z","url":"/test","userId":0,"username":"testUsername"}
+{"ip":"::1","level":"error","message":"Internal Server Error","method":"GET","responseTime":{"inverse":false},"service":"","statusCode":"500","statusMessage":"Internal Server Error","timestamp":"2022-08-06T16:55:12.604Z","url":"/test","userId":0,"username":"testUsername"}
+{"callstack":"test test:1:34","level":"error","message":"test error","service":"","timestamp":"2022-08-06T16:55:13.170Z"}
+{"callstack":"testfile testfile:1:34","level":"error","message":"test error for file","service":"","timestamp":"2022-08-06T16:55:13.172Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:55:13.183Z"}
+{"level":"warn","message":"test warn for file","service":"","statusCode":"404","timestamp":"2022-08-06T16:55:13.185Z"}

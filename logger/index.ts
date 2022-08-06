@@ -37,14 +37,12 @@ class logger {
      * Controls whether unhandled exceptions are logged.
      */
     static shouldLogExceptions = (should: boolean = true) => {
-        if (should)
-            this.winstonLogger.exceptions.handle(
-                new transports.File({
-                    filename: 'logs/exceptions.log',
-                    format: format.combine(format.timestamp(), format.json()),
-                }),
-            );
-        else this.winstonLogger.exceptions.handle();
+        const file = new transports.File({
+            filename: 'logs/exceptions.log',
+            format: format.combine(format.timestamp(), format.json()),
+        });
+        if (should) this.winstonLogger.exceptions.handle(file);
+        else this.winstonLogger.exceptions.handlers = new Map();
     };
 
     /**
@@ -58,7 +56,7 @@ class logger {
                     format: format.combine(format.timestamp(), format.json()),
                 }),
             );
-        else this.winstonLogger.rejections.handle();
+        else this.winstonLogger.rejections.handlers = new Map();
     };
 
     /**
