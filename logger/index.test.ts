@@ -39,7 +39,7 @@ describe('logger', () => {
     });
 
     test('log() calls winston log with the correct parameters', () => {
-        const winstonSpy = jest.spyOn((logger as any).winstonLogger, 'log');
+        const winstonSpy = jest.spyOn(loggerNoPrivate.winstonLogger, 'log');
 
         logger.log('info', 'test', { testData: 'test' });
 
